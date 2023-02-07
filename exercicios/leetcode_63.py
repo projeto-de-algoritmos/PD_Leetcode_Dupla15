@@ -25,5 +25,6 @@ class Solution(object):
    
         return grid[m-1][n-1]
 
+
 solve = Solution()
 print(solve.uniquePathsWithObstacles([[0,0,0],[0,1,0],[0,0,0]]))

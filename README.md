@@ -19,8 +19,11 @@ Os exercícios resolvidos foram:
 - [1463 - Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
 - [1470 - Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 
-## Screenshots
+## Link da apresentação
 
+[Apresentação](./assets/apresentacao-LucasHerick.mp4)
+
+## Screenshots
 
 ![Exercício 22](./assets/leetcode_22.png)
 ![Exercício 63](./assets/leetcode_63.png)

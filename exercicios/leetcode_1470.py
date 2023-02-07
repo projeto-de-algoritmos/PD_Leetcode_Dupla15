@@ -16,3 +16,6 @@ class Solution:
 
 solve = Solution()
 print(solve.shuffle([1, 2, 3, 4, 4, 3, 2, 1], 4))
+
+# // [x1, x2, x3, y1, y2, y3]
+# // [0, 1, 2, 3, 4, 5]
