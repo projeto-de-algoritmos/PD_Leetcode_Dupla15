@@ -1,44 +1,40 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Leetcode - Programação Dinâmica
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 15<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0033034 | Hérick Ferreira de Souza Portugues |
+| 18/0114093 | Lucas Ursulino Boaventura          |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Os objetivos desse projeto, é praticar os conhecimentos adquiridos em sala de aula sobre o assunto **Programação Dinâmica**. Para isso, foram resolvidos alguns exercícios da Plataforma [LeetCode](https://leetcode.com/tag/dynamic-programming/), que já fornece alguns exercícios com a tag *Dynamic Programming*.
+
+Os exercícios resolvidos foram:
+
+- [22 - Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [63 - Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+- [1463 - Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
+- [1470 - Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+
+![Exercício 22](./assets/leetcode_22.png)
+![Exercício 63](./assets/leetcode_63.png)
+![Exercício 1463](./assets/leetcode_1463.png)
+![Exercício 1470](./assets/leetcode_1470.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+
+Não é necessário instalação.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para testar, basta acessar a questão pretendida (o link encontra-se no README) e submeter a solução correspondente armazenada na pasta `exercicios` (selecionando a linguagem de programação adequada).
 
 
 
